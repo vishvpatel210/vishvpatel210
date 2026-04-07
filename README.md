@@ -85,9 +85,7 @@ I'm a **1st Year Computer Science student** from India 🇮🇳, passionate abou
 
 > Short description of what this project does and what problem it solves.
 
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
 
 [![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/vishvpatel210)
 [![Demo](https://img.shields.io/badge/Live-View_Demo-00C7B7?style=flat-square&logo=vercel)](https://github.com/vishvpatel210)
@@ -100,9 +98,7 @@ I'm a **1st Year Computer Science student** from India 🇮🇳, passionate abou
 
 > Short description of what this project does and what problem it solves.
 
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=flat-square&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+
 
 [![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/vishvpatel210)
 [![Demo](https://img.shields.io/badge/Live-View_Demo-00C7B7?style=flat-square&logo=vercel)](https://github.com/vishvpatel210)
@@ -117,7 +113,7 @@ I'm a **1st Year Computer Science student** from India 🇮🇳, passionate abou
 
 > Short description of what this project does and what problem it solves.
 
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
 
 [![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/vishvpatel210)
 

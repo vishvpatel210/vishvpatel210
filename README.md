@@ -81,7 +81,7 @@ I'm a **1st Year Computer Science student** from India 🇮🇳, passionate abou
 <td width="50%">
 
 ### 🔧 Project One
-**[Coming Soon]**
+**sewapro**
 
 > Short description of what this project does and what problem it solves.
 
@@ -96,7 +96,7 @@ I'm a **1st Year Computer Science student** from India 🇮🇳, passionate abou
 <td width="50%">
 
 ### 🔧 Project Two
-**[Coming Soon]**
+**campus**
 
 > Short description of what this project does and what problem it solves.
 
@@ -113,7 +113,7 @@ I'm a **1st Year Computer Science student** from India 🇮🇳, passionate abou
 <td width="50%">
 
 ### 🔧 Project Three
-**[Coming Soon]**
+**pincodesearch**
 
 > Short description of what this project does and what problem it solves.
 
@@ -124,16 +124,7 @@ I'm a **1st Year Computer Science student** from India 🇮🇳, passionate abou
 </td>
 <td width="50%">
 
-### 🔧 Project Four
-**[Coming Soon]**
 
-> Short description of what this project does and what problem it solves.
-
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/vishvpatel210)
-[![Demo](https://img.shields.io/badge/Live-View_Demo-00C7B7?style=flat-square&logo=vercel)](https://github.com/vishvpatel210)
 
 </td>
 </tr>

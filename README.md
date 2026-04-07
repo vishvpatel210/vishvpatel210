@@ -144,15 +144,7 @@ I'm a **1st Year Computer Science student** from India 🇮🇳, passionate abou
 
 ---
 
-## 🏆 &nbsp;GitHub Trophies
 
-<div align="center">
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=vishvpatel210&theme=github_dark&no-frame=true&no-bg=true&margin-w=6&column=7"/>
-
-</div>
-
----
 
 ## ⚡ &nbsp;LeetCode Stats
 

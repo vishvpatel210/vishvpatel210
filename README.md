@@ -114,15 +114,6 @@ I'm a **1st Year Computer Science student** from India 🇮🇳, passionate abou
 
 ---
 
-## 🏅 &nbsp;Certifications & Achievements
-
-| 🏆 Title | 🏫 Platform | 📅 Year |
-|---|---|---|
-| 🔜 Certification Coming Soon | — | 2025 |
-| 🔜 Add your certificate here | — | 2025 |
-| 🔜 Hackathon / Competition | — | 2025 |
-
-> 💡 *Currently pursuing certifications in Web Development & C++. Will update soon!*
 
 ---
 

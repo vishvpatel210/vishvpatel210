@@ -72,59 +72,8 @@ I'm a **1st Year Computer Science student** from India 🇮🇳, passionate abou
 
 ---
 
-## 🚀 &nbsp;Projects
-
-> 💡 *Projects coming soon — currently building. Stay tuned!*
-
-<table>
-<tr>
-<td width="50%">
-
-### 🔧 Project One
-**sewapro**
-
-> Short description of what this project does and what problem it solves.
 
 
-
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/vishvpatel210)
-[![Demo](https://img.shields.io/badge/Live-View_Demo-00C7B7?style=flat-square&logo=vercel)](https://github.com/vishvpatel210)
-
-</td>
-<td width="50%">
-
-### 🔧 Project Two
-**campus**
-
-> Short description of what this project does and what problem it solves.
-
-
-
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/vishvpatel210)
-[![Demo](https://img.shields.io/badge/Live-View_Demo-00C7B7?style=flat-square&logo=vercel)](https://github.com/vishvpatel210)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🔧 Project Three
-**pincodesearch**
-
-> Short description of what this project does and what problem it solves.
-
-
-
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/vishvpatel210)
-
-</td>
-<td width="50%">
-
-
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -132,13 +81,12 @@ I'm a **1st Year Computer Science student** from India 🇮🇳, passionate abou
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vishvpatel210&show_icons=true&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&count_private=true"/>
+
 &nbsp;
 <img height="170" src="https://streak-stats.demolab.com?user=vishvpatel210&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishvpatel210&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6"/>
 
 </div>
 
